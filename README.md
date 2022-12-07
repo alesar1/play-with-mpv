@@ -1,19 +1,16 @@
 # Play with MPV
-Chrome extension and python server that allows you to play videos in webpages with MPV instead.  
+This is a Firefox fork of the Chrome extension and python server that allows you to play videos in webpages with MPV instead.  
 Works on [hundreds of sites](https://rg3.github.io/youtube-dl/supportedsites.html) thanks to youtube-dl,
 and even torrents if you install [peerflix](https://github.com/mafintosh/peerflix).
 
 ## Installation
 1. Install [MPV](https://mpv.io/installation/)
 2. Install [python 2 or 3](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/)
-3. Install [chrome extension](https://chrome.google.com/webstore/detail/play-with-mpv/hahklcmnfgffdlchjigehabfbiigleji)
+3. Install [firefox extension](https://chrome.google.com/webstore/detail/play-with-mpv/hahklcmnfgffdlchjigehabfbiigleji)
 4. Run `pip install git+git://github.com/thann/play-with-mpv --user`
 5. Start server by running `play-with-mpv` (or use the Linux _free desktop_ shortcut)
 
-(optional) Install [fair-use](https://chrome.google.com/webstore/detail/fair-use-download/fhokdginneihphnneihijgbhbdoehjaj) extension.  
 (optional) Install [peerflix](https://github.com/mafintosh/peerflix) to stream torrents.  
-(optional) Install [mkchromecast](http://mkchromecast.com/) `pip install git+git://github.com/muammar/mkchromecast --user`
-and [extension](https://chrome.google.com/webstore/detail/edeepcccaejnnodlpmcoackkdgaijakg).  
 (recommended) Install youtube-dl through your package manager for frequent updates.  
 (Arch Linux) [aur package](https://aur.archlinux.org/packages/play-with-mpv-git) available.
 
