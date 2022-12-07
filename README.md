@@ -7,7 +7,7 @@ and even torrents if you install [peerflix](https://github.com/mafintosh/peerfli
 1. Install [MPV](https://mpv.io/installation/)
 2. Install [python 2 or 3](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/)
 3. Install [firefox extension](https://addons.mozilla.org/firefox/addon/play-with-mpv/)
-4. Run `pip install git+git://github.com/thann/play-with-mpv --user`
+4. Run `pip install git+git://github.com/alesar1/play-with-mpv --user`
 5. Start server by running `play-with-mpv` (or use the Linux _free desktop_ shortcut)
 
 (optional) Install [peerflix](https://github.com/mafintosh/peerflix) to stream torrents.  
@@ -18,7 +18,7 @@ and even torrents if you install [peerflix](https://github.com/mafintosh/peerfli
 Right-click [this link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and select "Play with MPV".
 MPV should popup and start playing the video. (Ctrl+Space also works)
 
-![screenshot](https://github.com/thann/play-with-mpv/raw/master/screenshot.png)
+![screenshot](https://github.com/alesar1/play-with-mpv/raw/master/screenshot.png)
 
 ## Autostart
 - Linux: `cp {/usr,~/.local}/share/applications/thann.play-with-mpv.desktop ~/.config/autostart`
